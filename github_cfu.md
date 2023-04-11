@@ -1,5 +1,5 @@
 # Git Commands
 
-- git init :intializes git
-- git add : add changes to staging area
+- git init :initializes git
+- git add : adds changes
 - git commit -m :commits changes
